@@ -6,7 +6,7 @@ Here you'll find updates on new features we're developing and ideas we are looki
 
 In addition, we'll also be documenting bugs & other issues we find during development.  
 
-Feedback is welcome via this github repo, twitter ([@gifbrewery](https://twitter.com/gifbrewery)), or email (gifbrewery@gfycat.com).
+Feedback is welcome via this github repo ([/issues](https://github.com/gfycat/gifbrewery/issues)), twitter ([@gifbrewery](https://twitter.com/gifbrewery)), or email (gifbrewery@gfycat.com).
 
 🍻,  
 [GIF Brewery Team](https://gfycat.com/gifbrewery)
